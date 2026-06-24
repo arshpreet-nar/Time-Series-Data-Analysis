@@ -48,4 +48,4 @@ jupyter notebook notebooks/time_series_stock_analysis.ipynb
 
 The notebook generates the forecasting plot at:
 
-`outputs/whole_dataset_forecast.png`
+`outputs` folder 
